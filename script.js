@@ -1,4 +1,4 @@
-var names=["Chandler", "Monica", "Rachel", "Ross", "Joey", "Phoebe"];
+var names=["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
 
 var ahello="Hello"
 var bgoodbye="Good bye"
